@@ -2,9 +2,9 @@
 showonlyimage = false
 draft = false
 date = "2020-06-29"
-title = "Reseach paper: Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland"
+title = "RRMS - Reseach paper: Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland"
 image = "img/portfolio/nerve-cell-2213009_640.jpg"
-weight = 1
+weight = 5
 +++
 
 

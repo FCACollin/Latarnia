@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2020-10-24"
-title = "Reseach paper: The effectiveness of interferon beta versus glatiramer acetate and natalizumab versus fingolimod in a Polish real-world population"
+title = "RRMS - Reseach paper: The effectiveness of interferon beta versus glatiramer acetate and natalizumab versus fingolimod in a Polish real-world population"
 image = "img/portfolio/network-3461936_640.jpg"
 weight = 4
 +++

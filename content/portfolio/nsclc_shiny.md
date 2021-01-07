@@ -3,8 +3,8 @@ draft = false
 image = "img/portfolio/nsclc_shinydashboard.png"
 showonlyimage = false
 date = "2020-02-01"
-title = "R and Shiny: reactive app as a prototype"
-weight = 4
+title = "NSCLC - R and Shiny: reactive app as a prototype"
+weight = 1
 +++
 
 2020-02-01

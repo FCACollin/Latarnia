@@ -1,6 +1,6 @@
 +++
 date = "2020-11-30"
-title = "Research paper: John Cunningham Virus Status, Seroconversion Rate, and the Risk of Progressive Multifocal Leukoencephalopathy in Polish JCV-Seronegative Patients with Relapsing-Remitting Multiple Sclerosis"
+title = "RRMS - Research paper: John Cunningham Virus Status, Seroconversion Rate, and the Risk of Progressive Multifocal Leukoencephalopathy in Polish JCV-Seronegative Patients with Relapsing-Remitting Multiple Sclerosis"
 draft = false
 image = "img/portfolio/neurons-440660_640.jpg"
 showonlyimage = false

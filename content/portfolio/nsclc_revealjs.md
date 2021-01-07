@@ -3,7 +3,7 @@ draft = false
 image = "img/portfolio/nsclc_revealjs.png"
 showonlyimage = false
 date = "2020-02-12"
-title = "Slide Deck with reveal.js"
+title = "NSCLC - Slide Deck with reveal.js"
 weight = 4
 +++
 
