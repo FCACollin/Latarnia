@@ -1,10 +1,23 @@
 +++
-date = "2016-11-06T13:00:25+05:30"
-title = "Get in touch"
+date = "2021-01-07"
+title = "Contact Information"
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
 
-Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.
+#### Independent consultant registered in Poland
 
-Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. 
+- Firm name: François COLLIN
+- Tax Number/NIP: 9542811573 (<a href="https://www.biznes.gov.pl/en/firma/doing-business-in-poland/cooperation-with-contractors-and-consumers/how-to-find-information-about-an-entrepreneur" target="_blank">Info</a>, <a href="https://prod.ceidg.gov.pl/ceidg/ceidg.public.ui/Search.aspx" target="_blank">check</a>)
+- Statistical Identification Number/REGON: 385283880 (<a
+    href="https://bip.stat.gov.pl/en/regon/rules-for-providing-access-to-data-from-the-regon-register/" target="_blank"
+    >Info</a>, <a href="https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx" target="_blank">check</a>)
+- VAT Number: 9542811573 (<a href="https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka" target="_blank">check</a>)<br>
+- EU-VAT Number: PL9542811573 (<a href="https://ec.europa.eu/taxation_customs/vies/vatRequest.html" target="_blank">VIES VAT number validation</a>)<br>
+
+
+#### Contact me directly
+
+- email <a href="mailto:fca.collin@gmail.com">fca.collin@gmail.com</a>
+- phone <a href="tel:0048787906750">+48 787 906 750</a><br>
+- or form below.
+

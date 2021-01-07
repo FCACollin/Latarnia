@@ -9,8 +9,9 @@
          <h4>You can find me also on:</h4>
          {{ partial "social_buttons_in_contact.html" . }}
          {{ with .Site.Params.email }}
-         <h4>Drop me a line, maybe?</h4>
-         <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
+         <h4>Contact form</h4>
+         <p><i>Note the information below is processed by the third-party <a href="https://formspree.io/">formspree.io</a>.</i><p/>
+         <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/f/mleoajbp">
            <div class="controls">
              <div class="form-group">
                <label for="name">Your name *</label>

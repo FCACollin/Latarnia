@@ -1,5 +1,5 @@
 baseurl = "https://fcacollin.github.io/lighthouse/"
-title = "François Collin"
+title = "François Collin, PhD"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,10 +12,11 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "blue"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2021 François Collin, Independent consultant registered in Poland"
   sidebarAbout = [
-    "I am a Statistical Consultant with 8 years of experience.",
-    "Originally from France, currently based in Poland."
+    "Statistical Consultant and Programmer",
+    "Wide field of expertise: pharmaceutical industry biostatistics, medical sciences, human genetics, plant physiology, geostatistics.",
+    "Technology stack includes among others: R, Shiny, (r)markdown), Hugo, distributed versioning (git, GitHub), CI/CD (Jenkins)."  
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +30,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "fca.collin@gmail.com"
+  email = "collin.public.pl@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -51,7 +52,7 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
 
   [params.social]
