@@ -3,37 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fcacollin.github.io/lighthouse/portfolio/rrms_jcv/</loc>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/210107_experience_map/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/201130_rrms_jcv/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fcacollin.github.io/lighthouse/portfolio/nsclc_shiny/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fcacollin.github.io/lighthouse/portfolio/experience_map/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fcacollin.github.io/lighthouse/portfolio/pm10/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fcacollin.github.io/lighthouse/portfolio/rrms_eff/</loc>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/201024_rrms_eff/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fcacollin.github.io/lighthouse/portfolio/nsclc_revealjs/</loc>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200629_rrms_clin/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200411_rrms_surv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200401_pm10/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200212_nsclc_revealjs/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fcacollin.github.io/lighthouse/portfolio/rrms_clin/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200201_nsclc_shiny/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200116_nsclc_circles/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200115_nsclc_roc/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/200114_nsclc_violin/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/lighthouse/portfolio/190618_nsclc_eshg19/</loc>
   </url>
   
   <url>
