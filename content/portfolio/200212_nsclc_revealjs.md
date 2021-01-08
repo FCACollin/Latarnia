@@ -4,7 +4,7 @@ image = "img/portfolio/nsclc_revealjs.png"
 showonlyimage = false
 date = "2020-02-12"
 title = "NSCLC - Slide Deck with reveal.js"
-weight = 4
+weight = -200212
 +++
 
 2020-02-12

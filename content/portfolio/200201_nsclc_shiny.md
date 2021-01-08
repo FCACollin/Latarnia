@@ -4,7 +4,7 @@ image = "img/portfolio/nsclc_shinydashboard.png"
 showonlyimage = false
 date = "2020-02-01"
 title = "NSCLC - R and Shiny: reactive app as a prototype"
-weight = 1
+weight = -200201
 +++
 
 2020-02-01
