@@ -15,7 +15,7 @@ googleAnalytics = ""
   copyright = "&copy;2021 François Collin, Independent consultant registered in Poland"
   sidebarAbout = [
     "Statistical Consultant and Programmer",
-    "Wide field of expertise: pharmaceutical industry biostatistics, medical sciences, human genetics, plant physiology, geostatistics.",
+    "Expertise: pharmaceutical industry, biostatistics, medical sciences, human genetics, plant physiology, geostatistics.",
     "Technology stack includes among others: R, Shiny, (r)markdown), Hugo, distributed versioning (git, GitHub), CI/CD (Jenkins)."  
   ]
   # Contact page

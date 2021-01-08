@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Research paper: John Cunningham Virus Status, Seroconversion Rate, and the Risk of Progressive Multifocal Leukoencephalopathy in Polish JCV-Seronegative Patients with Relapsing-Remitting Multiple Sclerosis</title>
+      <title>RRMS - Research paper: John Cunningham Virus Status, Seroconversion Rate, and the Risk of Progressive Multifocal Leukoencephalopathy in Polish JCV-Seronegative Patients with Relapsing-Remitting Multiple Sclerosis</title>
       <link>https://fcacollin.github.io/lighthouse/portfolio/rrms_jcv/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
@@ -23,14 +23,21 @@
     </item>
     
     <item>
-      <title>Reseach paper: Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/rrms_clin/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <title>NSCLC - R and Shiny: reactive app as a prototype</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/nsclc_shiny/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/rrms_clin/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5603/PJNNS.a2020.0020&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2020-06-29&lt;/p&gt;</description>
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/nsclc_shiny/</guid>
+      <description>&lt;p&gt;2020-02-01&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R and Leaflet: My experience across Europe</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/experience_map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/experience_map/</guid>
+      <description>&lt;p&gt;2020-01-21 - Update 2021-01-07&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,7 +53,7 @@ Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Reseach paper: The effectiveness of interferon beta versus glatiramer acetate and natalizumab versus fingolimod in a Polish real-world population</title>
+      <title>RRMS - Reseach paper: The effectiveness of interferon beta versus glatiramer acetate and natalizumab versus fingolimod in a Polish real-world population</title>
       <link>https://fcacollin.github.io/lighthouse/portfolio/rrms_eff/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -57,7 +64,7 @@ Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Slide Deck with reveal.js</title>
+      <title>NSCLC - Slide Deck with reveal.js</title>
       <link>https://fcacollin.github.io/lighthouse/portfolio/nsclc_revealjs/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -66,12 +73,14 @@ Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
     </item>
     
     <item>
-      <title>R and Shiny: reactive app as a prototype</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/nsclc_shiny/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <title>RRMS - Reseach paper: Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/rrms_clin/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/nsclc_shiny/</guid>
-      <description>&lt;p&gt;2020-02-01&lt;/p&gt;</description>
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/rrms_clin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5603/PJNNS.a2020.0020&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2020-06-29&lt;/p&gt;</description>
     </item>
     
   </channel>
