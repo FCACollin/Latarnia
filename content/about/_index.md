@@ -9,7 +9,11 @@ in various field of expertise.
 Native of France, while currently based in Poland, I work with
 international collaborators.
 
-# Expertise
+Check-out my 
+<a href="../doc/FCA_COLLIN_CV.pdf" target="_blank"> CV (2020-10-13)</a>.
+
+
+### Expertise
 
 I have a broad experience in several fields of _Biology_
 and good knowledge in statistics and informatics.
@@ -23,7 +27,7 @@ clinical trials for those connected with medical research.
 These domains are completed by agro-geostatistics, plant physiology and
 crop sciences which constituted my initial field of interest and development.
 
-# Education and Experience
+### Education and Experience
 
 Since my Master of applied statistics, followed by a Dual Ph.D. degree in
 crop sciences and several experiences, including in medical sciences,
@@ -45,9 +49,5 @@ I have tested, validated and deployed my methods:
 - And presented my work within companies, taught techniques to
   students, summed up to private stakeholders, or promoted results
   during international conferences.
-
-### Credits
-
-Theme: <https://github.com/kishaningithub/hugo-creative-portfolio-theme>
 
 [modeline]: # ( vim: set foldlevel=0 spell spelllang=en_gb: )
