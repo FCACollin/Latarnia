@@ -15,8 +15,8 @@ googleAnalytics = ""
   copyright = "&copy;2021 François Collin, Independent consultant registered in Poland"
   sidebarAbout = [
     "Statistical Consultant and Programmer",
-    "Expertise: pharmaceutical industry, biostatistics, medical sciences, human genetics, plant physiology, geostatistics.",
-    "Technology stack includes among others: R, Shiny, (r)markdown), Hugo, distributed versioning (git, GitHub), CI/CD (Jenkins)."  
+    "Expertise: pharma industry, biostatistics, medical sciences, human genetics, plant physiology, geostatistics.",
+    "Technology stack includes: R, Shiny, (r)markdown, Hugo, distributed versioning (git, GitHub), CI/CD (Jenkins)."  
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

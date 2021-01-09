@@ -108,15 +108,31 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>RRMS - R &#43; Shiny: Visualise Scenario</h1>
-         <p>2019-11-01</p>
+         <h1>T2D - R &#43; {FactoMineR}: Multiple Correspondence Analysis</h1>
+         <p>2021-01-09</p>
 
-<p>Shiny Applications programmed with R facilitate the
-selection of scenario; e.g. compare a selection of patients
-without relapses to patients who experienced relapse during
-the first year of treatment.</p>
+<p>Multiple Correspondence Analysis with R, or
+how to dig into qualitative variable associations?</p>
 
-<p><img src="../../img/portfolio/rrms_scenario.png" alt="ShinyApp - Scenario" /></p>
+<p>When working with factor variables, it is of interest to understand
+the preferential association between different factor levels: was the
+patient blood type preferentially associated with disease-free status?
+A frequent strategy would rely on Chi-2 test to verify if the
+modalities of two factors are independently distributed.
+The Multiple Correspondence Analysis can be seen as a generalisation where
+the Chi-2 square corresponds to a distance in a resulting factorial map.</p>
+
+<p>The example below relied on the package
+<a href="https://cran.r-project.org/web/packages/FactoMineR/index.html"><code>FactoMineR</code></a>
+to compute the
+Multiple Correspondence Analysis factorial map, result visualization was
+enhanced with
+<a href="https://cran.r-project.org/web/packages/ggplot2/index.html"><code>ggplot2</code></a>
+to represent patients, factor levels as well as
+an illustrative variable (factors projected in the map which did not contribute
+to its definition).</p>
+
+<p><img src="../../img/portfolio/t2d_mca.png" alt="" /></p>
          
       </div>
     </div>
