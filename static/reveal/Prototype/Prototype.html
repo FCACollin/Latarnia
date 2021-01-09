@@ -1,0 +1,221 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>FCACollin/Prototype</title>
+    <link rel="shortcut icon" href="../../signature/logo_signature.svg" type="image/x-icon" >
+
+		<link rel="stylesheet" href="../reveal.js/dist/reset.css">
+		<link rel="stylesheet" href="../reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="../reveal.js/dist/theme/white.css" id="theme">
+    <link rel="stylesheet" href="css/mycss.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="../reveal.js/plugin/highlight/monokai.css" id="highlight-theme">
+	</head>
+	<body>
+
+		<div class="reveal">
+			<div class="slides">
+
+        <section>
+          <h3>Prototype/Lung Cancer: Multivalent genetic model for clinical decision support</h3>
+          <img src="../../signature/logo_signature.svg" style="width:200px;border:0;box-shadow:none;background:none">
+          <p> 
+						<small>Created by
+            <a href="https://FCACollin.github.io/Latarnia">François COLLIN</a> (update 2020-02-12)
+            </small>
+          </p>
+        </section>
+
+        <section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
+
+          <p>Use the <em>Space</em> key to navigate through all slides.</p>
+
+          <small>
+          <p>This slide deck is based on <em>reveal.js</em>, an html
+          presentation framework under MIT license, Copyright (C) 2020
+          Hakim El Hattab, <a href="http://hakim.se">http://hakim.se</a></p>
+          </small>
+        </section>
+
+        <section>
+          <h4>The need</h4>
+
+          <p>In spite of a long run research, the lung cancer condition is
+          characterised by
+          <a href="http://gco.iarc.fr/today/data/factsheets/cancers/15-Lung-fact-sheet.pdf"
+             >low survival</a>.</p>
+
+          <p>Characterisation of the tumour is essential to decide the
+          treatment offering the best chances<br>
+          (see <a href="https://doi.org/10.1016/j.jtho.2016.01.020">here</a>
+          or <a href="https://doi.org/10.1016/j.jtho.2015.09.009">there</a>).</p>
+
+          <p>Experts are <a href="https://doi.org/10.1016/j.jtho.2018.02.012"
+                            >demanding</a>
+          the addition of genetic information to support
+          clinical decision process.</p>
+
+
+        </section>
+
+        <section>
+
+          <section>
+          <h4>Principle</h4>
+
+          <p>Following a lung tumour resection, I propose to exploit the
+         associations between clinical traits and tumour expression
+         to observe the tumour from a <it>complementary point of view</it>
+         helping the clinician and the patient making the right choice.</p>
+          
+          </section>
+          <section>
+          <ol>Concretely:
+            <li>The user provides a lung tumour expression data.</li>
+            <li>The user triggers the computation.</li>
+            <li>The user gets back clinical information obtained from the
+            genetic standpoint.</li>
+          </ol>
+        </section>
+
+        </section>
+
+          <section>
+
+            <section>
+              <h3>The prototype.</h3>
+
+              <p><a href="https://latarnia.shinyapps.io/p10_o01_03_mvtr_app/">
+                Available online</a><br>
+              and below.</p>
+              <a href="#" class="navigate-down">
+                <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
+                            </a>
+            </section>
+
+            <section>
+              <p><small>Data selection: Along with the file input field, a set of use cases.</small></p>
+              <img src="gif/dataSelection.gif" alt="">
+            </section>
+
+            <section
+              data-background="gif/dataSelection.gif"
+              data-background-size="contain"
+              data-background-opacity=.1
+              data-transition="convex"
+              data-background-transition="concave"
+              >
+              <p><small>Application run: The histological types are determined, accuracy estimated.</small></p>
+              <img src="gif/ModHisto.gif" alt="">
+            </section>
+
+            <section
+              data-background="gif/ModHisto.gif"
+              data-background-size="contain"
+              data-background-opacity=.1
+              data-transition="convex"
+              data-background-transition="concave"
+              >
+              <p><small>Transcription age: The association between tumour size and expression is used.</small></p>
+              <img src="gif/ModTNum.gif" alt="">
+            </section>
+
+            <section
+              data-background="gif/ModTNum.gif"
+              data-background-size="contain"
+              data-background-opacity=.1
+              data-transition="convex"
+              data-background-transition="concave"
+              >
+              <p><small>Enhanced learning: If the association is not conclusive, the learning can be enhanced.</small></p>
+              <img src="gif/ModUpdate.gif" alt="" style="">
+            </section>
+
+          </section>
+
+          
+            <section data-markdown>
+              <textarea data-template>
+                ### To sum up
+
+
+                Innovation:
+                Empirical associations can be of some use even if the
+                underlying process is not yet understood.
+
+                <div class="fragment">
+
+                  * When genetics involved, the current standards use a reduce
+                  number of biomarkers.
+                  * I propose to use the full **available information** and exploit
+                  associations observed in large collections.
+                  * The platform adapts to available information.
+                  * Perspective for more clinical endpoints.
+
+                  <div>
+
+              </textarea>
+
+          </section>
+
+        <!--section>
+          <h3>What I need</h3>
+          <p>Validation - Feedbacks from clinicians and pharmaceutical industry.</p>
+          <ul>Perspective:
+            <li>target the best suitable treatment for a given biomolecular
+              tumour stage.</li>
+            <li>Institute with proprietary data collection/biobank can
+            directly use them, or proposed their collection for external
+            consultation.</li>
+            <li>Large collection including clinical surveys will increase
+            potential, the ultimate target would be: the prognosis for a
+            given tumour biomolecuar stage at resection and treatment.</li>
+          </ul>
+        </section-->
+
+        <section>
+          <h3>Interested?</h3>
+
+          <p>You are interested by the idea? You want more information?
+          You want me to develop a new idea? Contact me:</p>
+
+          <div class="column">
+          <img src="../../signature/logo_signature.svg" style="width:200px;border:0;box-shadow:none;background:none">
+          </div>
+
+          <div class="column">
+
+          <ul>
+            <li><a href="mailto:fca.collin@gmail.com">fca.collin@gmail.com</a></li>
+            <li><a href="https://FCACollin.github.io/Latarnia">FCACollin.github.io/Latarnia</a></li>
+            <li><a href="https://www.linkedin.com/in/fran%C3%A7ois-collin-phd-a231a368">Linked In</a></li>
+          </ul>
+          </div>
+
+        </section>
+
+
+      </div>
+    </div>
+
+		<script src="../reveal.js/dist/reveal.js"></script>
+		<script src="../reveal.js/plugin/notes/notes.js"></script>
+		<script src="../reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="../reveal.js/plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>

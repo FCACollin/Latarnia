@@ -1,0 +1,28 @@
+
+.twocol{
+  column-count: 2;
+  vertical-align: middle;
+}
+
+.threecol{
+  column-count: 3;
+  vertical-align: top;
+}
+
+.column {
+  display: table-cell;
+  width: 50%;
+  vertical-align: middle !important;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.tmp{
+  vertical-align: middle;
+}
+
