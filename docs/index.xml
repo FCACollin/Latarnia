@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>François Collin, PhD</title>
-    <link>https://fcacollin.github.io/lighthouse/</link>
+    <link>https://fcacollin.github.io/Latarnia/</link>
     <description>Recent content on François Collin, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fcacollin.github.io/lighthouse/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fcacollin.github.io/Latarnia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R and Leaflet: My experience across Europe</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/210107_experience_map/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/210107_experience_map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/210107_experience_map/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/210107_experience_map/</guid>
       <description>&lt;p&gt;2020-01-21 - Update 2021-01-07&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RRMS - Research paper: John Cunningham Virus Status, Seroconversion Rate, and the Risk of Progressive Multifocal Leukoencephalopathy in Polish JCV-Seronegative Patients with Relapsing-Remitting Multiple Sclerosis</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/201130_rrms_jcv/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/201130_rrms_jcv/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/201130_rrms_jcv/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/201130_rrms_jcv/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1159/000510849&#34;&gt;&lt;code&gt;DOI:10.1159/000510849&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2020-11-30&lt;/p&gt;</description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>RRMS - Reseach paper: Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200629_rrms_clin/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200629_rrms_clin/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200629_rrms_clin/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200629_rrms_clin/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5603/PJNNS.a2020.0020&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2020-06-29&lt;/p&gt;</description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>R, API and Leaflet: Map of PM10 in Poland</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200401_pm10/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200401_pm10/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200401_pm10/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200401_pm10/</guid>
       <description>&lt;p&gt;This is the result of a familiarisation task to use R with Application
 Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
 
@@ -56,100 +56,100 @@ Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
     
     <item>
       <title>NSCLC - Slide Deck with reveal.js</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200212_nsclc_revealjs/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200212_nsclc_revealjs/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200212_nsclc_revealjs/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200212_nsclc_revealjs/</guid>
       <description>&lt;p&gt;2020-02-12&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NSCLC - R and Shiny: reactive app as a prototype</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200201_nsclc_shiny/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200201_nsclc_shiny/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200201_nsclc_shiny/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200201_nsclc_shiny/</guid>
       <description>&lt;p&gt;2020-02-01&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NSCLC - R: Creativity</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200116_nsclc_circles/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200116_nsclc_circles/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200116_nsclc_circles/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200116_nsclc_circles/</guid>
       <description>&lt;p&gt;2020-01-15&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NSCLC - R: Diagnostic</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200115_nsclc_roc/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200115_nsclc_roc/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200115_nsclc_roc/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200115_nsclc_roc/</guid>
       <description>&lt;p&gt;2020-01-15&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NSCLC - R: Validation</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200114_nsclc_violin/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200114_nsclc_violin/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200114_nsclc_violin/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200114_nsclc_violin/</guid>
       <description>&lt;p&gt;2020-01-14&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RRMS - R &#43; Shiny: Visualise Scenario</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/191101_rrms_scenario/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/191101_rrms_scenario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/191101_rrms_scenario/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/191101_rrms_scenario/</guid>
       <description>&lt;p&gt;2019-11-01&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RRMS - R: Decision Tree</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/191028_rrms_tree/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/191028_rrms_tree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/191028_rrms_tree/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/191028_rrms_tree/</guid>
       <description>&lt;p&gt;2019-10-28&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RRMS - R &#43; {Survival}: Kaplan-Meier Curve</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/191027_rrms_surv/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/191027_rrms_surv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/191027_rrms_surv/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/191027_rrms_surv/</guid>
       <description>&lt;p&gt;2019-10-27&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RRMS - R: Distribution Of Failure Events</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/191026_rrms_dist/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/191026_rrms_dist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/191026_rrms_dist/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/191026_rrms_dist/</guid>
       <description>&lt;p&gt;2019-10-26&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RRMS - R &#43; Map: Incidence Map</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/191025_rrms_map/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/191025_rrms_map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/191025_rrms_map/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/191025_rrms_map/</guid>
       <description>&lt;p&gt;2019-10-25&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RRMS - Reseach paper: The effectiveness of interferon beta versus glatiramer acetate and natalizumab versus fingolimod in a Polish real-world population</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/191024_rrms_eff/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/191024_rrms_eff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/191024_rrms_eff/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/191024_rrms_eff/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pone.0223863&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2019-10-24&lt;/p&gt;</description>
@@ -157,10 +157,10 @@ Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
     
     <item>
       <title>RRMS - Conference Poster: Evaluation of JCV status, seroconversion rate and risk of progressive multifocal leukoencephalopathy in Polish patients with relapsing-remitting multiple sclerosis</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/190913_rrms_poster/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/190913_rrms_poster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/190913_rrms_poster/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/190913_rrms_poster/</guid>
       <description>&lt;p&gt;2019-09-13 / Conference ECTRIMS 2019&lt;/p&gt;
 
 &lt;p&gt;Kapica-Topczewska, K; Czarnowska, A; Collin, F;
@@ -170,10 +170,10 @@ Kułakowska, A&lt;/p&gt;</description>
     
     <item>
       <title>NSCLC - Conference Poster: User-friendly and machine learning empowered platform for classification of NSCLC based on RNA-seq profiling</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/190618_nsclc_eshg19/</link>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/190618_nsclc_eshg19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/190618_nsclc_eshg19/</guid>
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/190618_nsclc_eshg19/</guid>
       <description>&lt;p&gt;2019-06-18&lt;/p&gt;
 
 &lt;p&gt;Poster presented at the European Human Genetics Conference,

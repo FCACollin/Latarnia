@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Information on François Collin, PhD</title>
-    <link>https://fcacollin.github.io/lighthouse/contact/</link>
+    <link>https://fcacollin.github.io/Latarnia/contact/</link>
     <description>Recent content in Contact Information on François Collin, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fcacollin.github.io/lighthouse/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fcacollin.github.io/Latarnia/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
