@@ -32,17 +32,6 @@
     </item>
     
     <item>
-      <title>RRMS - Reseach paper: The effectiveness of interferon beta versus glatiramer acetate and natalizumab versus fingolimod in a Polish real-world population</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/201024_rrms_eff/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/201024_rrms_eff/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pone.0223863&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2020-10-24&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>RRMS - Reseach paper: Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland</title>
       <link>https://fcacollin.github.io/lighthouse/portfolio/200629_rrms_clin/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
@@ -51,15 +40,6 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5603/PJNNS.a2020.0020&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2020-06-29&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>RRMS - R &#43; Map: Incidence Map</title>
-      <link>https://fcacollin.github.io/lighthouse/portfolio/200411_rrms_surv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fcacollin.github.io/lighthouse/portfolio/200411_rrms_surv/</guid>
-      <description>&lt;p&gt;2020-04-11&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -117,6 +97,75 @@ Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
       
       <guid>https://fcacollin.github.io/lighthouse/portfolio/200114_nsclc_violin/</guid>
       <description>&lt;p&gt;2020-01-14&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRMS - R &#43; Shiny: Visualise Scenario</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/191101_rrms_scenario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/191101_rrms_scenario/</guid>
+      <description>&lt;p&gt;2019-11-01&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRMS - R: Decision Tree</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/191028_rrms_tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/191028_rrms_tree/</guid>
+      <description>&lt;p&gt;2019-10-28&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRMS - R &#43; {Survival}: Kaplan-Meier Curve</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/191027_rrms_surv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/191027_rrms_surv/</guid>
+      <description>&lt;p&gt;2019-10-27&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRMS - R: Distribution Of Failure Events</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/191026_rrms_dist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/191026_rrms_dist/</guid>
+      <description>&lt;p&gt;2019-10-26&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRMS - R &#43; Map: Incidence Map</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/191025_rrms_map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/191025_rrms_map/</guid>
+      <description>&lt;p&gt;2019-10-25&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRMS - Reseach paper: The effectiveness of interferon beta versus glatiramer acetate and natalizumab versus fingolimod in a Polish real-world population</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/191024_rrms_eff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/191024_rrms_eff/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pone.0223863&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2019-10-24&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRMS - Conference Poster: Evaluation of JCV status, seroconversion rate and risk of progressive multifocal leukoencephalopathy in Polish patients with relapsing-remitting multiple sclerosis</title>
+      <link>https://fcacollin.github.io/lighthouse/portfolio/190913_rrms_poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/lighthouse/portfolio/190913_rrms_poster/</guid>
+      <description>&lt;p&gt;2019-09-13 / Conference ECTRIMS 2019&lt;/p&gt;
+
+&lt;p&gt;Kapica-Topczewska, K; Czarnowska, A; Collin, F;
+Tarasiuk, J; Chorąży, M; Kwaśniewski, M; Kochanowicz, J;
+Kułakowska, A&lt;/p&gt;</description>
     </item>
     
     <item>
