@@ -6,10 +6,21 @@
     <description>Recent content on François Collin, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fcacollin.github.io/Latarnia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assessment of Disability Progression Independent of Relapse and Brain MRI Activity in Patients with Multiple Sclerosis in Poland</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/210221_rrms_pira/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/210221_rrms_pira/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/jcm10040868&#34;&gt;&lt;code&gt;DOI:10.3390/jcm10040868&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2020-02-19&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>T2D - R &#43; {FactoMineR}: Multiple Correspondence Analysis</title>

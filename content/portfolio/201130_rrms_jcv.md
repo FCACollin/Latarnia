@@ -20,6 +20,10 @@ Kułakowska, A
 
 [European Neurology, 83:487--492](https://doi.org/10.1159/000510849)
 
+**My contribution:** data curation and analysis, formal analysis, methodology,
+software.
+
+
 ## Abstract
 
 **Introduction**
