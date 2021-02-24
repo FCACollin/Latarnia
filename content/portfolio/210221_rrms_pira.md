@@ -1,6 +1,6 @@
 +++
 date = "2021-02-21"
-title = "Assessment of Disability Progression Independent of Relapse and Brain MRI Activity in Patients with Multiple Sclerosis in Poland"
+title = "RRMS - Research Paper: Assessment of Disability Progression Independent of Relapse and Brain MRI Activity in Patients with Multiple Sclerosis in Poland"
 draft = false
 image = "img/portfolio/vehicle-2275456_640.jpg"
 showonlyimage = false
