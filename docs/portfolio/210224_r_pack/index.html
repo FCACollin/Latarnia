@@ -155,7 +155,7 @@ the R packages <code>devtools</code>, <code>usethis</code>, <code>pkgdown</code>
 documenting, checking and building your package with R commands (<code>R CMD</code>) calls
 and standard file templates and much more.</p>
 
-<h2 id="lets-start">Lets start</h2>
+<h2 id="1-lets-start-set-up-the-package">1. Lets start: Set Up the package</h2>
 
 <h3 id="in-short">In short</h3>
 
@@ -300,6 +300,71 @@ and Description.</li>
 possiblities.</li>
 <li>If using <code>git</code>, that is the good time to use <code>git init</code> so the commit
 represents a clean state of the package and features can start being added.</li>
+</ul>
+
+<h2 id="2-what-goes-where">2. What goes where?</h2>
+
+<p>That is the good side with a package, there is always a good place for
+every kind of information.</p>
+
+<h3 id="the-data">The Data</h3>
+
+<p>I can think of three ways of managing the data in a package. Either
+as a raw file of data, either as a R data file or as a R function.</p>
+
+<ul>
+<li>raw file: if the raw file needs to be packed with the analysis, it can
+be added within the <code>inst</code> folder (standard folder), eventually in a subfolder
+which is often refered as <code>extdata</code>. That way, your data is never lost,
+always available <em>as was</em> when doing the analysis. But a raw data set, is not
+often directly edible for R.</li>
+
+<li><p>as a R data set: anyt R object can be saved (<code>save()</code>), and can be directly
+available within the <code>data</code> directory. If I want to include my preprocessed
+<code>t2d</code> data into my data analysis package, then I will save in the package
+with <code>usethis::use_data(t2d)</code>, it will appear as <code>t2d.rda</code> within the <code>data/</code>
+folder. You also need to add a file in <code>R/</code>, for instance <code>R/data-t2d.R</code>
+which will describe the dataset with useful information which will help
+recording in a complete way the metadata around the data:</p>
+
+<pre><code>#' T2D
+#'
+#' My preprocessed dataset.
+#' @format 5 cols and 50 rows.
+#' @source received from ... the.
+#' @detail This dataset includes .... Note that ....
+#'
+&quot;t2d&quot;
+</code></pre></li>
+</ul>
+
+<p>It is even possible to save the data preprocessing steps into a dedicated
+folder <code>data-raw/</code>, this is not a standard R folder, and it should be
+added to the list of files to ignore when building the package. In
+<code>.Rbuildignore</code> you should add <code>^data-raw$</code>.</p>
+
+<ul>
+<li><p>Finally, you may not necessarily store the data, but simply a function
+that will pick the data and preprocess them for you. That function, would
+be stored in the <code>R/</code> folder. That way, your keep your package slim. The
+advantage is that you are always pointing at the original file, however, if the
+preprocessing steps are too long, the solution above might be more satisfactory.</p>
+
+<pre><code>#' T2D Preprocessing
+#'
+#' Preprocess the dataset and make it ready for the analysis.
+#' @param file (`character`)\cr the location of the source file.
+#' @export
+#' @examples
+#' t2d &lt;- preprocess_t2d()
+#' head(t2d)
+#'
+preprocess_t2d &lt;- (file = &quot;/predictable/file/location.csv&quot;) {
+y &lt;- read.table(file)
+y$col &lt;- ... # all the preprocessing steps
+y
+}
+</code></pre></li>
 </ul>
 
 <h2 id="examples">Examples</h2>
