@@ -65,6 +65,15 @@ how to dig into qualitative variable associations?&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Pharma - R &#43; {rtables}: Tables</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/201223_rtables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/201223_rtables/</guid>
+      <description>&lt;p&gt;2020-12-23&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>RRMS - Research paper: John Cunningham Virus Status, Seroconversion Rate, and the Risk of Progressive Multifocal Leukoencephalopathy in Polish JCV-Seronegative Patients with Relapsing-Remitting Multiple Sclerosis</title>
       <link>https://fcacollin.github.io/Latarnia/portfolio/201130_rrms_jcv/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
@@ -73,6 +82,22 @@ how to dig into qualitative variable associations?&lt;/p&gt;</description>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1159/000510849&#34;&gt;&lt;code&gt;DOI:10.1159/000510849&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2020-11-30&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pharma - R &#43; {lme4}: Mixed Model</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/201013_mmrm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/201013_mmrm/</guid>
+      <description>&lt;p&gt;2020-10-05&lt;/p&gt;
+
+&lt;p&gt;When working for Roche, beyond my (very) minor contribution to the topic,
+interesting outcomes came around the MMRM. It was presented by
+&lt;a href=&#34;https://ch.linkedin.com/in/danielsabanesbove?trk=author_mini-profile_title&#34;&gt;Daniel Sabanés Bové&lt;/a&gt; during &lt;em&gt;R/Pharma 2020&lt;/em&gt; conference,&lt;/p&gt;
+
+&lt;p&gt;Beyond the &lt;a href=&#34;https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Sabanes_Bove-Implementing_MMRM_in_R.pdf&#34;&gt;slide deck&lt;/a&gt;,
+it evidences the active development in R to answer pharma challenges.&lt;/p&gt;</description>
     </item>
     
     <item>
