@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>R &#43; {plotly}: Weekly Mortality in Poland since 2020</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/210615_line_plotly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/210615_line_plotly/</guid>
+      <description>&lt;p&gt;2021-06-15&lt;/p&gt;
+
+&lt;p&gt;Interactivity with Plotly, an example with weekly mortality in Poland since
+2020.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>R &#43; {plotly}: ECDF</title>
       <link>https://fcacollin.github.io/Latarnia/portfolio/210610_ecdf_plotly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
