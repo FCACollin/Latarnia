@@ -6,7 +6,7 @@ title = "Contact Information"
 
 #### Independent consultant registered in Poland
 
-- <a href="../doc/FCA_COLLIN_CV.pdf" target="_blank"> CV (2020-10-13)</a>
+- <a href="../doc/FCA_COLLIN_CV.pdf" target="_blank"> CV (2021-07-06)</a>
 - Firm name: François COLLIN
 - Tax Number/NIP: 9542811573 (<a href="https://www.biznes.gov.pl/en/firma/doing-business-in-poland/cooperation-with-contractors-and-consumers/how-to-find-information-about-an-entrepreneur" target="_blank">Info</a>, <a href="https://prod.ceidg.gov.pl/ceidg/ceidg.public.ui/Search.aspx" target="_blank">check</a>)
 - Statistical Identification Number/REGON: 385283880 (<a
