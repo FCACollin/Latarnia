@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fcacollin.github.io/Latarnia/portfolio/210708_r_bubble/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/Latarnia/portfolio/210708_r_netbipart/</loc>
+  </url>
+  
+  <url>
     <loc>https://fcacollin.github.io/Latarnia/portfolio/210615_line_plotly/</loc>
   </url>
   
@@ -53,6 +61,11 @@
   <url>
     <loc>https://fcacollin.github.io/Latarnia/portfolio/200401_pm10/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fcacollin.github.io/Latarnia/portfolio/200302_t2d_review/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -12,15 +12,33 @@
     
     
     <item>
-      <title>R &#43; {plotly}: Weekly Mortality in Poland since 2020</title>
+      <title>R &#43; {ggraph}: Circle Pack</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/210708_r_bubble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/210708_r_bubble/</guid>
+      <description>&lt;p&gt;2021-07-08&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R: Bipartite network</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/210708_r_netbipart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/210708_r_netbipart/</guid>
+      <description>&lt;p&gt;2021-07-08&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R &#43; {plotly}: Weekly Mortality in France and Poland since 2013</title>
       <link>https://fcacollin.github.io/Latarnia/portfolio/210615_line_plotly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fcacollin.github.io/Latarnia/portfolio/210615_line_plotly/</guid>
-      <description>&lt;p&gt;2021-06-15&lt;/p&gt;
+      <description>&lt;p&gt;2021-07-08&lt;/p&gt;
 
-&lt;p&gt;Interactivity with Plotly, an example with weekly mortality in Poland since
-2020.&lt;/p&gt;</description>
+&lt;p&gt;Interactivity with Plotly, an example with weekly mortality in France and
+Poland since 2013.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +71,7 @@ representations. The &lt;a href=&#34;https://latarnia.shinyapps.io/kegg_demo/&#3
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fcacollin.github.io/Latarnia/portfolio/210224_r_pack/</guid>
-      <description>&lt;p&gt;2020-02-24&lt;/p&gt;</description>
+      <description>&lt;p&gt;2021-02-24&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -64,7 +82,7 @@ representations. The &lt;a href=&#34;https://latarnia.shinyapps.io/kegg_demo/&#3
       <guid>https://fcacollin.github.io/Latarnia/portfolio/210221_rrms_pira/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/jcm10040868&#34;&gt;&lt;code&gt;DOI:10.3390/jcm10040868&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;2020-02-19&lt;/p&gt;</description>
+&lt;p&gt;2021-02-19&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -125,14 +143,15 @@ it evidences the active development in R to answer pharma challenges.&lt;/p&gt;<
     </item>
     
     <item>
-      <title>RRMS - Reseach paper: Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland</title>
+      <title>RRMS - Reseach paper (&#43;Poster): Clinical and epidemiological characteristics of multiple sclerosis patients receiving disease-modifying treatment in Poland</title>
       <link>https://fcacollin.github.io/Latarnia/portfolio/200629_rrms_clin/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fcacollin.github.io/Latarnia/portfolio/200629_rrms_clin/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5603/PJNNS.a2020.0020&#34;&gt;&lt;code&gt;DOI:10.5603/PJNNS.a2020.0020&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;2020-06-29&lt;/p&gt;</description>
+&lt;p&gt;(+Poster
+&lt;a href=&#34;https://doi.org/10.1016/j.jns.2019.10.1143&#34;&gt;&lt;code&gt;DOI:10.1016/j.jns.2019.10.1143&lt;/code&gt;&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -145,6 +164,17 @@ it evidences the active development in R to answer pharma challenges.&lt;/p&gt;<
 Programming Interfaces (API) queries and geospatial libraries.&lt;/p&gt;
 
 &lt;p&gt;2020-04-01&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>T2D - Review Paper: Systematic Review of Polygenic Risk Scores for Type 1 and Type 2 Diabetes</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/200302_t2d_review/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/200302_t2d_review/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/ijms21051703&#34;&gt;&lt;code&gt;DOI:10.3390/ijms21051703&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2020-03-02&lt;/p&gt;</description>
     </item>
     
     <item>
