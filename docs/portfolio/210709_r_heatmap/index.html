@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>François Collin, PhD</title>
+<meta name="description" content="Describe your website">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="https://fcacollin.github.io/Latarnia/img/main/logo.svg">
+<link rel="stylesheet" href="https://fcacollin.github.io/Latarnia/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://fcacollin.github.io/Latarnia/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fcacollin.github.io/Latarnia/css/owl.carousel.css">
+<link rel="stylesheet" href="https://fcacollin.github.io/Latarnia/css/owl.theme.css">
+
+
+  <link href="https://fcacollin.github.io/Latarnia/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="https://fcacollin.github.io/Latarnia/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://fcacollin.github.io/Latarnia/img/favicon.png">
+
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="https://fcacollin.github.io/Latarnia/">François Collin, PhD</a></h1>
+    
+      <p class="sidebar-p">Statistical Consultant and Programmer</p>
+    
+      <p class="sidebar-p">Expertise: pharma industry, biostatistics, medical sciences, human genetics, plant physiology, geostatistics.</p>
+    
+      <p class="sidebar-p">Technology stack includes: R, Shiny, (r)markdown, Hugo, distributed versioning (git, GitHub), CI/CD (Jenkins).</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="https://fcacollin.github.io/Latarnia/portfolio/">Home</a></li>
+      
+        <li><a href="https://fcacollin.github.io/Latarnia/about/">About</a></li>
+      
+        <li><a href="https://fcacollin.github.io/Latarnia/contact/">Contact</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  
+  
+  <a href="mailto:fca.collin@gmail.com" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/fran%C3%A7ois-collin-phd-a231a368/" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  
+  
+  <a href="https://github.com/FCACollin" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+  
+  
+  
+  <a href="https://wa.me/48787906750" data-animate-hover="pulse" class="external">
+    <i class="fa fa-whatsapp"></i>
+  </a>
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+          &copy;2021 François Collin, Independent consultant registered in Poland |
+        
+        Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="https://fcacollin.github.io/Latarnia/">François Collin, PhD</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>R: heatmap</h1>
+         <p>2021-07-09</p>
+
+<p>The representation of associations between two classes of features becomes
+complex when the number in each class increases and this occurs for instance
+when investigating:</p>
+
+<ul>
+<li>genes to clinical parameters.</li>
+<li>mRNA to miRNA.</li>
+<li>subjects to lifestyles.</li>
+</ul>
+
+<p>Heatmap is a regular proposition, but can be confusing, and it should be
+carefully designed so as to help identifying the most relevant associations
+between individual features or group of features. In the example below:</p>
+
+<ul>
+<li>The association between a row feature and a column feature is quantified at
+the intersection.</li>
+<li>The intensity of the shade corresponds to the absolute value of the
+correlation.</li>
+<li>We should always understand the rational for row or column ordering:
+in that case, an unsupervised hierarchical classification was applied;
+within rows (or columns) to close features (distance derived from correlation)
+will be found grouped together. The information is supported by the addition
+of the dendrogram in the margins.</li>
+<li>The numbers are the correlations; number by themselves may not
+be of main interest so the first visible information is actually
+the colour of the numbers corresponding to the discrimination of significance
+(yellow, p.value &lt; 0.5; green otherwise). Still, looking closer at the
+matrix give access to the actual correlation value if required (e.g. for
+reporting).</li>
+</ul>
+
+<p>From that, we understand that the rows and columns features under the
+magnifier glass constitute two groups which association support their
+identification as good candidates to push the analysis further.</p>
+
+<p><img src="../../img/portfolio/heatmap.png" alt="" /></p>
+         <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "https-github-com-fcacollin-latarnia" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="https://fcacollin.github.io/Latarnia/js/jquery.min.js"></script>
+<script src="https://fcacollin.github.io/Latarnia/js/bootstrap.min.js"></script>
+<script src="https://fcacollin.github.io/Latarnia/js/jquery.cookie.js"> </script>
+<script src="https://fcacollin.github.io/Latarnia/js/ekko-lightbox.js"></script>
+<script src="https://fcacollin.github.io/Latarnia/js/jquery.scrollTo.min.js"></script>
+<script src="https://fcacollin.github.io/Latarnia/js/masonry.pkgd.min.js"></script>
+<script src="https://fcacollin.github.io/Latarnia/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://fcacollin.github.io/Latarnia/js/owl.carousel.min.js"></script>
+<script src="https://fcacollin.github.io/Latarnia/js/front.js"></script>
+
+
+
+</body>
+</html>
