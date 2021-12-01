@@ -6,10 +6,23 @@
     <description>Recent content on François Collin, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fcacollin.github.io/Latarnia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Crops - Research Paper: Towards a global characterization of winter wheat
+cultivars behavior in response to stressful environments during grain-filling
+</title>
+      <link>https://fcacollin.github.io/Latarnia/portfolio/211201_tol_quant/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fcacollin.github.io/Latarnia/portfolio/211201_tol_quant/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.eja.2021.126421&#34;&gt;&lt;code&gt;DOI:10.1016/j.eja.2021.126421&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2021-12-01&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>R: forest plot</title>
