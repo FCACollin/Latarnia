@@ -10,7 +10,7 @@ Native of France, while currently based in Poland, I work with
 international collaborators.
 
 Check-out my 
-<a href="../doc/FCA_COLLIN_CV.pdf" target="_blank"> CV (2020-10-13)</a>.
+<a href="../doc/FCA_COLLIN_CV.pdf" target="_blank"> CV (2022-05-12)</a>.
 
 
 ### Expertise
